@@ -1,2 +1,4 @@
 # ML-Project
-Term Deposit Subscription Prediction
+Predicting Term Deposit Subscription by a client
+
+INTRODUCTION
